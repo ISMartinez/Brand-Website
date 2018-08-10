@@ -1,7 +1,7 @@
 body {
      margin-left: 160px; 
     padding: 0px 10px;
-    background-image: url("../Img/background.jpg");
+    background-image: url("Img/background.jpg");
     background-attachment: fixed;
      background-repeat: round;
 }
